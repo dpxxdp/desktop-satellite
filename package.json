@@ -1,0 +1,27 @@
+{
+  "name": "desktop-satellite",
+  "version": "1.0.0",
+  "description": "realtime views of earth on your desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dpxxdp/desktop-satellite.git"
+  },
+  "keywords": [
+    "desktop",
+    "background",
+    "space",
+    "earth",
+    "satellite",
+    "images"
+  ],
+  "author": "Daniel Patrick, inspired by IJMacD and MichaelPote",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpxxdp/desktop-satellite/issues"
+  },
+  "homepage": "https://github.com/dpxxdp/desktop-satellite#readme"
+}
