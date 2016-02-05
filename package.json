@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/dpxxdp/desktop-satellite/issues"
   },
-  "homepage": "https://github.com/dpxxdp/desktop-satellite#readme"
+  "homepage": "https://github.com/dpxxdp/desktop-satellite#readme",
+  "dependencies": {
+    "wallpaper": "^2.1.0"
+  }
 }
