@@ -39,7 +39,7 @@ app.use('/settings', router);
 app.listen(port);
 
 function showMeTheEarth() {
-    console.log("running: " + settings.satellite.name())
+    console.log("running: " + settings.satellite.name)
     settings.satellite.fetch(function(err, imagepath) {
         if(err) {
             console.log(err)
